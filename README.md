@@ -17,6 +17,10 @@ The AI Virtual Assistant leverages voice recognition and  understands and respon
 
 ## 📸 Demo
 Check out the live demo of the AI Virtual Assistant: [Live Demo](https://ai-virtual-assistant-indol.vercel.app)
+![image](https://github.com/user-attachments/assets/e069a729-b66f-46c8-9d7b-1f05f833a205)
+![image](https://github.com/user-attachments/assets/491aeddc-0a7f-4de8-9d1f-9141f7e2c659)
+
+
 
 ## 🚀 Getting Started
 To get a local copy up and running, follow these simple steps:
